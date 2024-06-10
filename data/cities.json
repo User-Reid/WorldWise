@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "76ed",
+      "cityName": "Sligo",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-06-08T16:39:41.473Z",
+      "notes": "I met pickles here!",
+      "position": {
+        "lat": "54.18463981189832",
+        "lng": "-8.518352508544924"
+      }
+    },
+    {
+      "id": "4166",
+      "cityName": "Houston",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-08T17:46:11.681Z",
+      "notes": "I live here!",
+      "position": {
+        "lat": "29.740532166753606",
+        "lng": "-95.3668212890625"
+      }
+    },
+    {
+      "id": "f290",
+      "cityName": "Galway",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-06-08T22:09:37.986Z",
+      "notes": "We went here!",
+      "position": {
+        "lat": "53.28081633409321",
+        "lng": "-9.043121337890627"
+      }
+    },
+    {
+      "id": "b585",
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-06-08T22:10:55.111Z",
+      "notes": "I went here too!",
+      "position": {
+        "lat": "53.31774904749089",
+        "lng": "-6.267700195312501"
+      }
+    }
+  ]
+}
